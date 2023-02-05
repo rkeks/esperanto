@@ -1,0 +1,3825 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showall
+
+# examples of card definitions for use with org-drill.
+# Cards, AKA topics, have the 'drill' tag. Note that the higher-level headings
+# in the file do NOT have this tag.
+
+
+
+
+* Уроки эсперанто (https://esperanto12.net/ru)
+
+** Словарь
+
+*** Глаголы (verb) :drill:
+
+Es: paroli
+Rus: [говорить]
+
+*** Глаголы (verb) :drill:
+
+Es: trinki
+Rus: [пить]
+
+*** Глаголы (verb) :drill:
+
+Es: ŝati
+Rus: [оценить, ценить, нравится]
+
+*** Глаголы (verb) :drill:
+
+Es: kuiri
+Rus: [готовить (пищу)]
+
+*** Глаголы (verb) :drill:
+
+Es: danki
+Rus: [благодарить]
+
+*** Глаголы (verb) :drill:
+
+Es: povi
+Rus: [мочь]
+
+*** Глаголы (verb) :drill:
+
+Es: rigardi
+Rus: [смотреть]
+
+*** Глаголы (verb) :drill:
+
+Es: vojaĝi
+Rus: [путешествие]
+
+*** Глаголы (verb) :drill:
+
+Es: atenti
+Rus: [обращать внимание]
+
+*** Глаголы (verb) :drill:
+
+Es: pluvi
+Rus: [идет дождь]
+
+*** Глаголы (verb) :drill:
+
+Es: supri
+Rus: [ставить наверх, возвеличивать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: labori
+Rus: [работать]
+
+*** Глаголы (verb) :drill:
+
+Es: lerni
+Rus: [изучать]
+
+*** Глаголы (verb) :drill:
+
+Es: skribi
+Rus: [писать]
+
+*** Глаголы (verb)                                                           :drill:
+Es: esti
+Rus: [быть]
+
+*** Глаголы (verb) :drill:
+
+*** Глаголы (verb) :drill:
+
+Es: lerni
+Rus: [изучать]
+
+*** Глаголы (verb) :drill:
+
+Es: sidi
+Rus: [сидеть]
+
+*** Глаголы (verb) :drill:
+
+Es: respondi
+Rus: [ответить]
+
+*** Глаголы (verb) :drill:
+
+Es: labori
+Rus: [работать]
+
+*** Глаголы (verb) :drill:
+
+Es: skribi
+Rus: [писать]
+
+*** Глаголы (verb) :drill:
+
+Es: instrui
+Rus: [обучать]
+
+
+
+*** Глаголы (verb) :drill:
+
+Es: vidi
+Rus: [видеть]
+
+
+*** Глаголы (verb) :drill:
+
+Es: ke
+Rus: [что, чтобы]
+
+
+*** Глаголы (verb) :drill:
+
+Es: ami
+Rus: [любить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: demandi 
+Rus: [спросить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: diri
+Rus: [сказать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: porti
+Rus: [нести, носить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: kanti
+Rus: [петь]
+
+
+*** Глаголы (verb) :drill:
+
+Es: scii
+Rus: [знать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: fini
+Rus: [закончить]
+
+
+
+*** Глаголы (verb) :drill:
+
+Es: vendi
+Rus: [продавать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: plaĉi
+Rus: [нравиться]
+
+
+*** Глаголы (verb) :drill:
+
+Es: demandi
+Rus: [спросить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: kosti
+Rus: [стоить, цена]
+
+
+*** Глаголы (verb) :drill:
+
+Es: bedaŭri
+Rus: [сожалеть, жалеть]
+
+
+*** Глаголы (verb) :drill:
+
+Es: veturi
+Rus: [ехать, путешествовать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: aĉeti
+Rus: [купить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: aŭskulti 
+Rus: [слушать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: forgesi
+Rus: [забыть]
+
+
+*** Глаголы (verb) :drill:
+
+Es: helpi
+Rus: [помогать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: komenci
+Rus: [начинать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: sendi
+Rus: [отправлять]
+
+
+*** Глаголы (verb) :drill:
+
+Es: vivi
+Rus: [жить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: manĝi
+Rus: [есть]
+
+
+*** Глаголы (verb) :drill:
+
+Es: serĉi
+Rus: [искать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: kompreni
+Rus: [понимать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: okazi
+Rus: [случиться, произойти]
+
+
+*** Глаголы (verb) :drill:
+
+Es: scii
+Rus: [знать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: koleri
+Rus: [злоба, гнев]
+
+
+*** Глаголы (verb) :drill:
+
+Es: stari
+Rus: [стоять]
+
+
+*** Глаголы (verb) :drill:
+
+Es: fali
+Rus: [падать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: pardoni
+Rus: [простить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: doni
+Rus: [дать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: ricevi
+Rus: [получить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: devi
+Rus: [быть должным]
+
+
+*** Глаголы (verb) :drill:
+
+Es: fermi
+Rus: [закрыть]
+
+
+*** Глаголы (verb) :drill:
+
+Es: aŭdi
+Rus: [слышать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: meti
+Rus: [положить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: preni
+Rus: [взять]
+
+
+*** Глаголы (verb) :drill:
+
+Es: helpi
+Rus: [помогать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: montri
+Rus: [показать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: vesti
+Rus: [одежда]
+
+
+*** Глаголы (verb) :drill:
+
+Es: deziri
+Rus: [желать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: farti
+Rus: [поживать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: bezoni
+Rus: [нуждаться]
+
+
+*** Глаголы (verb) :drill:
+
+Es: esperi
+Rus: [надеяться]
+
+
+*** Глаголы (verb) :drill:
+
+Es: loĝi
+Rus: [жить, проживать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: pensi
+Rus: [думать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: peti
+Rus: [просить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: resti
+Rus: [находиться]
+
+
+*** Глаголы (verb) :drill:
+
+Es: voki
+Rus: [звать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: inviti
+Rus: [пригласить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: peti
+Rus: [просить]
+
+
+*** Глаголы (verb) :drill:
+
+Es: kontroli
+Rus: [проверять, контролировать]
+
+
+*** Глаголы (verb) :drill:
+
+Es: akcepti
+Rus: [принимать, принять]
+
+
+*** Глаголы (verb) :drill:
+
+Es: perdi
+Rus: [потерять]
+
+*** Глаголы (verb) :drill:
+
+Es: zorgi
+Rus: [заботиться, беспокоиться]
+
+*** Глаголы (verb) :drill:
+
+Es: rimarki
+Rus: [замечать, примечать]
+
+*** Глаголы (verb) :drill:
+
+Es: dormi
+Rus: [спать]
+
+*** Глаголы (verb) :drill:
+
+Es: salti
+Rus: [прыгать]
+
+*** Глаголы (verb) :drill:
+
+Es: meti
+Rus: [положить]
+
+*** Глаголы (verb) :drill:
+
+Es: kuri
+Rus: [бегать]
+
+*** Глаголы (verb) :drill:
+
+Es: pensi
+Rus: [думать]
+
+*** Глаголы (verb) :drill:
+
+Es: memori
+Rus: [запомнить]
+
+*** Глаголы (verb) :drill:
+
+Es: atendi
+Rus: [ждать]
+
+*** Глаголы (verb) :drill:
+
+Es: krii
+Rus: [кричать]
+
+*** Глаголы (verb) :drill:
+
+Es: lasi
+Rus: покинуть
+
+*** Глаголы (verb) :drill:
+
+Es: ridi
+Rus: [смеяться]
+
+*** Глаголы (verb) :drill:
+
+Es: raporti
+Rus: [доложить]
+
+*** Глаголы (verb) :drill:
+
+Es: ludi
+Rus: [играть]
+
+*** Глаголы (verb) :drill:
+
+Es: aŭdi
+Rus: [слышать]
+
+*** Глаголы (verb) :drill:
+
+Es: respondi
+Rus: [ответить]
+
+*** Глаголы (verb) :drill:
+
+Es: ridi
+Rus: [смеяться]
+
+*** Глаголы (verb) :drill:
+
+Es: agi
+Rus: [действовать, поступать]
+
+*** Глаголы (verb) :drill:
+
+Es: aperi
+Rus: [являться, появиться]
+
+*** Глаголы (verb) :drill:
+
+Es: decidi
+Rus: [решать, принять решение]
+
+*** Глаголы (verb) :drill:
+
+Es: dolori
+Rus: [боль, доставлять боль]
+
+*** Глаголы (verb) :drill:
+
+Es: morti
+Rus: [умереть]
+
+*** Глаголы (verb) :drill:
+
+Es: plori
+Rus: [плакать]
+
+*** Глаголы (verb) :drill:
+
+Es: senti
+Rus: [чувствовать, ощущать]
+
+*** Глаголы (verb) :drill:
+
+Es: teni
+Rus: [держать]
+
+*** Глаголы (verb) :drill:
+
+Es: timi
+Rus: [бояться]
+
+*** Глаголы (verb) :drill:
+
+Es: decidi
+Rus: [решать, принять решение]
+
+*** Глаголы (verb) :drill:
+
+Es: forgesi
+Rus: [забыть]
+
+*** Глаголы (verb) :drill:
+
+Es: esperi
+Rus: [надеяться]
+
+*** Глаголы (verb) :drill:
+
+Es: komenci
+Rus: [начинать]
+
+*** Глаголы (verb) :drill:
+
+Es: uzi
+Rus: [использовать]
+
+*** Глаголы (verb) :drill:
+
+Es: atendi
+Rus: [ждать]
+
+*** Глаголы (verb) :drill:
+
+Es: kredi
+Rus: [вера]
+
+*** Глаголы (verb) :drill:
+
+Es: manki
+Rus: [не хватать]
+
+*** Глаголы (verb) :drill:
+
+Es: organizi
+Rus: [организовывать]
+
+*** Глаголы (verb) :drill:
+
+Es: rajti
+Rus: [быть позволенным]
+
+*** Глаголы (verb) :drill:
+
+Es: rakonti
+Rus: [рассказывать]
+
+*** Глаголы (verb) :drill:
+
+Es: ŝajni
+Rus: [казаться, представляться]
+
+*** Глаголы (verb) :drill:
+
+Es: informi
+Rus: [информация]
+
+*** Глаголы (verb) :drill:
+
+Es: pasi
+Rus: [пройти]
+
+*** Глаголы (verb) :drill:
+
+Es: naski
+Rus: [родить]
+
+*** Глаголы (verb) :drill:
+
+Es: trovi
+Rus: [найти, находить]
+
+*** Глаголы (verb) :drill:
+
+Es: manki
+Rus: [не хватать]
+
+*** Глаголы (verb) :drill:
+
+Es: ĵeti
+Rus: [кидать]
+
+*** Глаголы (verb) :drill:
+
+Es: proponi
+Rus: [предложить]
+
+*** Глаголы (verb) :drill:
+
+Es: daŭri
+Rus: [продолжать]
+
+*** Глаголы (verb) :drill:
+
+Es: viziti
+Rus: [посетить]
+
+*** Глаголы (verb) :drill:
+
+Es: atenti
+Rus: [внимание]
+
+*** Глаголы (verb) :drill:
+
+Es: ŝanĝi
+Rus: [менять]
+
+*** Глаголы (verb) :drill:
+
+Es: opinii
+Rus: [мнение]
+
+*** Глаголы (verb) :drill:
+
+Es: rilati
+Rus: [относиться]
+
+*** Глаголы (verb) :drill:
+
+Es: sekvi
+Rus: [следовать]
+
+*** Глаголы (verb) :drill:
+
+Es: movi
+Rus: [двигать]
+
+*** Глаголы (verb) :drill:
+
+Es: krii
+Rus: [кричать]
+
+*** Глаголы (verb) :drill:
+
+Es: renkonti
+Rus: [встретить]
+
+*** Глаголы (verb) :drill:
+
+Es: koni
+Rus: [знать]
+
+*** Глаголы (verb) :drill:
+
+Es: preni
+Rus: [взять]
+
+*** Глаголы (verb) :drill:
+
+Es: morti
+Rus: [умереть]
+
+*** Глаголы (verb) :drill:
+
+Es: halti
+Rus: [остановить]
+
+*** Глаголы (verb) :drill:
+
+Es: timi
+Rus: [страх]
+
+*** Глаголы (verb) :drill:
+
+Es: sendi
+Rus: [отправлять]
+
+*** Глаголы (verb) :drill:
+
+Es: bezoni
+Rus: [нуждаться]
+
+*** Глаголы (verb) :drill:
+
+Es: pagi
+Rus: [платить]
+
+*** Глаголы (verb) :drill:
+
+Es: konsenti
+Rus: [соглашаться]
+
+*** Глаголы (verb) :drill:
+
+Es: respekti
+Rus: [почитать, уважать]
+
+*** Глаголы (verb) :drill:
+
+Es: prezenti
+Rus: [представить]
+
+*** Глаголы (verb) :drill:
+
+Es: ĝeni
+Rus: [беспокоить, стеснять]
+
+*** Глаголы (verb) :drill:
+
+Es: tuŝi
+Rus: [трогать]
+
+*** Глаголы (verb) :drill:
+
+Es: ĝenerali
+Rus: [обобщать]
+
+*** Глаголы (verb) :drill:
+
+Es: seki
+Rus: [сушить]
+
+*** Глаголы (verb) :drill:
+
+Es: paŝi
+Rus: [шагать]
+
+*** Глаголы (verb) :drill:
+
+Es: vivi
+Rus: [жить]
+
+*** Глаголы (verb) :drill:
+
+Es: dolori
+Rus: [боль, доставлять боль]
+
+*** Глаголы (verb) :drill:
+
+Es: direkti
+Rus: [направлять]
+
+*** Глаголы (verb) :drill:
+
+Es: promeni
+Rus: [гулять, прогуливаться]
+
+*** Глаголы (verb) :drill:
+
+Es: miri
+Rus: [удивляться]
+
+*** Глаголы (verb) :drill:
+
+Es: ŝajni
+Rus: [казаться, представляться]
+
+*** Глаголы (verb) :drill:
+
+Es: provi
+Rus: [пробовать]
+*** Глаголы (verb) :drill:
+
+Es: kapti
+Rus: [ловить]
+
+*** Глаголы (verb) :drill:
+
+Es: teni
+Rus: [держать]
+
+*** Глаголы (verb) :drill:
+
+Es: fuŝi
+Rus: [делать небрежно, кое-как]
+
+
+
+
+*** Глаголы (verb) :drill:
+
+Es: havi
+Rus: [иметь]
+
+*** Глаголы (verb) :drill:
+
+Es: veni
+Rus: [приходить]
+
+*** Глаголы (verb) :drill:
+
+Es: voli
+Rus: [желать, хотеть]
+
+*** Глаголы (verb) :drill:
+
+Es: iri
+Rus: [идти]
+
+*** Глаголы (verb) :drill:
+
+Es: fari
+Rus: [делать]
+
+*** Глаголы (verb) :drill:
+
+Es: legi
+Rus: [читать]
+
+
+*** Прилагательное (adjective) :drill:
+
+Es: klara
+Rus: [ясный, чёткий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: diversa
+Rus: [разный, различный, разнообразный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: multa
+Rus: [много]
+
+*** Прилагательное (adjective) :drill:
+
+Es: rapida
+Rus: [быстрый]
+
+
+*** Прилагательное (adjective) :drill:
+
+Es: ĝoja
+Rus: [радостный]
+
+
+*** Прилагательное (adjective) :drill:
+
+Es: juna
+Rus: [молодой]
+
+*** Прилагательное (adjective) :drill:
+
+Es: bela
+Rus: [красивый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: bona
+Rus: [хороший]
+
+*** Прилагательное (adjective) :drill:
+
+Es: varma
+Rus: [тёплый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: facila
+Rus: [лёгкий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: granda
+Rus: [большой, великий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: nova
+Rus: [новый]
+
+
+
+*** Прилагательное (adjective) :drill:
+
+Es: longa
+Rus: [длинный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sufiĉa
+Rus: [достаточный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: riĉa
+Rus: [богатый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: nova
+Rus: [новый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: alia
+Rus: [другой]
+
+*** Прилагательное (adjective) :drill:
+
+Es: forta
+Rus: [сильный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: vera
+Rus: [правдивый, истинный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: rapida
+Rus: [быстрый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: ruĝa
+Rus: [красный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: lasta
+Rus: [последний]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sia
+Rus: [свой]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sola
+Rus: [одинокий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: trankvila
+Rus: [спокойный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: certa
+Rus: [уверенный, несомненный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: plena
+Rus: [полный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sana
+Rus: [здоровый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: alta
+Rus: [высокий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: trankvila
+Rus: [спокойный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: kara
+Rus: [дорогой, милый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: proksima
+Rus: [близкий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: necesa
+Rus: [необходимый, нужный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: terura
+Rus: [ужасный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: tuta
+Rus: [весь, целый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: utila
+Rus: [полезный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: subita
+Rus: [внезапно, неожиданно]
+
+*** Прилагательное (adjective) :drill:
+
+Es: saĝa
+Rus: [умный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: baldaŭ
+Rus: [скоро]
+
+*** Прилагательное (adjective) :drill:
+
+Es: kara
+Rus: [дорогой, милый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: kelka
+Rus: [некоторый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: pura
+Rus: [чистый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sovaĝa
+Rus: [дикий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: libera
+Rus: [свободный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: feliĉa
+Rus: [счастливый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: plena
+Rus: [полный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sia
+Rus: [себе, себя, свой]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sama
+Rus: [такой-же]
+
+*** Прилагательное (adjective) :drill:
+
+Es: kelka
+Rus: [некоторый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: necesa
+Rus: [необходимый, нужный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: ĝusta
+Rus: [точный, верный, правильный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sama
+Rus: [такой-же]
+
+*** Прилагательное (adjective) :drill:
+
+Es: reala
+Rus: [настоящий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: dolĉa
+Rus: [вкусный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: dika
+Rus: [толстый, полный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sola
+Rus: [одинокий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: simpla
+Rus: [простой]
+
+*** Прилагательное (adjective) :drill:
+
+Es: universala
+Rus: [универсальный, всеобщий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: proksima
+Rus: [близкий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: granda
+Rus: [большой, великий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: facila
+Rus: [лёгкий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: grava
+Rus: [важный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: laŭta
+Rus: [громкий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: publika
+Rus: [публичный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sata
+Rus: [сытый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: peza
+Rus: [тяжёлый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: larĝa
+Rus: [широкий, обширный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: kontenta
+Rus: [удовлетворённый, довольный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: utila
+Rus: [полезный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: sovaĝa
+Rus: [дикий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: agrabla
+Rus: [приятный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: kapabla
+Rus: [способный]
+
+*** Прилагательное (adjective) :drill:
+
+Es: simila
+Rus: [похожий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: lasta
+Rus: [последний]
+
+*** Прилагательное (adjective) :drill:
+
+Es: laŭta
+Rus: [громкий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: rekta
+Rus: [прямой]
+
+*** Прилагательное (adjective) :drill:
+
+Es: preta
+Rus: [готовый]
+
+*** Прилагательное (adjective) :drill:
+
+Es: efektiva
+Rus: [действительно]
+
+*** Прилагательное (adjective) :drill:
+
+Es: klara
+Rus: [ясный, чёткий]
+
+*** Прилагательное (adjective) :drill:
+
+Es: kalva
+Rus: [лысый]
+
+
+*** Прилагательное (adjective) :drill:
+
+Es: frua
+Rus: [рано]
+
+
+*** Местоимения (pronoun) :drill:
+
+Es: mi
+Rus: [я]
+
+*** Местоимения (pronoun) :drill:
+
+Es: li
+Rus: [он]
+
+*** Местоимения (pronoun) :drill:
+
+Es: ĝi
+Rus: [оно]
+
+*** Местоимения (pronoun) :drill:
+
+Es: ili
+Rus: [они]
+
+*** Местоимения (pronoun) :drill:
+
+Es: ŝi
+Rus: [она]
+
+*** Местоимения (pronoun) :drill:
+
+Es: ni
+Rus: [мы]
+
+*** Местоимения (pronoun) :drill:
+
+Es: vi
+Rus: [ты, вы (вежливое обращение или мн. ч)]
+
+*** Местоимения (pronoun) :drill:
+
+Es: ni
+Rus: [мы]
+
+*** Местоимения (pronoun) :drill:
+
+Es: mem
+Rus: [сам]
+
+*** Местоимения (pronoun) :drill:
+
+Es: oni
+Rus: [неопределённое местоимение]
+
+
+*** Существительные (noun) :drill:
+
+Es: ebl
+Rus: [возможность]
+
+*** Существительные (noun) :drill:
+
+Es: jaro
+Rus: [год]
+
+*** Существительные (noun) :drill:
+
+Es: temperaturo
+Rus: [температура]
+
+*** Существительные (noun) :drill:
+
+Es: doktoro
+Rus: [доктор]
+
+*** Существительные (noun) :drill:
+
+Es: horo
+Rus: [час]
+
+*** Существительные (noun) :drill:
+
+Es: semajno
+Rus: [неделя]
+
+*** Существительные (noun) :drill:
+
+Es: teo
+Rus: [чай]
+
+*** Существительные (noun) :drill:
+
+Es: mateno
+Rus: [утро]
+
+*** Существительные (noun) :drill:
+
+Es: vespero
+Rus: [вечер]
+
+*** Существительные (noun) :drill:
+
+Es: piedo
+Rus: [нога, стопа, лапа]
+
+*** Существительные (noun) :drill:
+
+Es: familio
+Rus: [семья]
+
+*** Существительные (noun) :drill:
+
+Es: fojo
+Rus: [раз, случай]
+
+*** Существительные (noun) :drill:
+
+Es: infano
+Rus: [ребёнок]
+
+
+*** Существительные (noun) :drill:
+
+Es: lando
+Rus: [страна]
+
+
+*** Существительные (noun) :drill:
+
+Es: suno
+Rus: [солнце]
+
+
+*** Существительные (noun) :drill:
+
+Es: homo
+Rus: [человек]
+
+
+*** Существительные (noun) :drill:
+
+Es: knabo
+Rus: [мальчик]
+
+
+*** Существительные (noun) :drill:
+
+Es: diablo
+Rus: [дьявол]
+
+
+*** Существительные (noun) :drill:
+
+Es: dimanĉo
+Rus: [Воскресение]
+
+
+*** Существительные (noun) :drill:
+
+Es: akvo
+Rus: [вода]
+
+
+*** Существительные (noun) :drill:
+
+Es: momento
+Rus: [мгновение, момент]
+
+
+*** Существительные (noun) :drill:
+
+Es: nokto
+Rus: [ночь]
+
+
+*** Существительные (noun) :drill:
+
+Es: poŝto
+Rus: [почта]
+
+
+*** Существительные (noun) :drill:
+
+Es: noto
+Rus: [заметка]
+
+
+*** Существительные (noun) :drill:
+
+Es: kapo
+Rus: [голова]
+
+
+*** Существительные (noun) :drill:
+
+Es: vorto
+Rus: [слово]
+
+
+*** Существительные (noun) :drill:
+
+Es: problemo
+Rus: [проблема]
+
+
+*** Существительные (noun) :drill:
+
+Es: muziko
+Rus: [музыка]
+
+
+*** Существительные (noun) :drill:
+
+Es: glaso
+Rus: [стакан]
+
+
+*** Существительные (noun) :drill:
+
+Es: ordo
+Rus: [порядок]
+
+
+*** Существительные (noun) :drill:
+
+Es: polico
+Rus: [полиция]
+
+
+*** Существительные (noun) :drill:
+
+Es: vino
+Rus: [вино]
+
+
+*** Существительные (noun) :drill:
+
+Es: lando
+Rus: [страна]
+
+
+*** Существительные (noun) :drill:
+
+Es: tempo
+Rus: [время]
+
+
+*** Существительные (noun) :drill:
+
+Es: urbo
+Rus: [город]
+
+
+*** Существительные (noun) :drill:
+
+Es: vagono
+Rus: [вагон]
+
+
+*** Существительные (noun) :drill:
+
+Es: nenio
+Rus: [ничего]
+
+
+*** Существительные (noun) :drill:
+
+Es: sekreto
+Rus: [тайна]
+
+
+*** Существительные (noun) :drill:
+
+Es: onklo
+Rus: [дядя]
+
+
+*** Существительные (noun) :drill:
+
+Es: domo
+Rus: [дом]
+
+
+*** Существительные (noun) :drill:
+
+Es: ideo
+Rus: [идея]
+
+
+*** Существительные (noun) :drill:
+
+Es: maniero
+Rus: [образ, манера, способ]
+
+
+*** Существительные (noun) :drill:
+
+Es: mondo
+Rus: [мир]
+
+
+*** Существительные (noun) :drill:
+
+Es: plano
+Rus: [план]
+
+
+*** Существительные (noun) :drill:
+
+Es: vojo
+Rus: [путь]
+
+
+*** Существительные (noun) :drill:
+
+Es: familio
+Rus: [семья]
+
+
+*** Существительные (noun) :drill:
+
+Es: ordo
+Rus: [порядок]
+
+
+*** Существительные (noun) :drill:
+
+Es: lakto
+Rus: [молоко]
+
+
+*** Существительные (noun) :drill:
+
+Es: intereso
+Rus: [интересоваться]
+
+
+*** Существительные (noun) :drill:
+
+Es: ekskurso
+Rus: [экскурсия, прогулка]
+
+
+*** Существительные (noun) :drill:
+
+Es: klubo
+Rus: [клуб]
+
+
+*** Существительные (noun) :drill:
+
+Es: fojo
+Rus: [раз, случай]
+
+
+*** Существительные (noun) :drill:
+
+Es: parto
+Rus: [часть]
+
+
+*** Существительные (noun) :drill:
+
+Es: sukceso
+Rus: [успех, удача]
+
+
+*** Существительные (noun) :drill:
+
+Es: ideo
+Rus: [идея]
+
+
+*** Существительные (noun) :drill:
+
+Es: silento
+Rus: [тихий]
+
+
+*** Существительные (noun) :drill:
+
+Es: minuto
+Rus: [минута]
+
+
+*** Существительные (noun) :drill:
+
+Es: telefono
+Rus: [телефон]
+
+
+*** Существительные (noun) :drill:
+
+Es: ekzemplo
+Rus: [пример]
+
+
+*** Существительные (noun) :drill:
+
+Es: ĉefo
+Rus: [главный (вождь, руководитель)]
+
+
+
+*** Существительные (noun) :drill:
+
+Es: placo
+Rus: [площадь, площадка]
+
+
+*** Существительные (noun) :drill:
+
+Es: maro
+Rus: [море]
+
+
+*** Существительные (noun) :drill:
+
+Es: ŝipo
+Rus: [корабль, судно]
+
+
+*** Существительные (noun) :drill:
+
+Es: milito
+Rus: [война]
+
+
+*** Существительные (noun) :drill:
+
+Es: gondolo
+Rus: [гондола]
+
+
+*** Существительные (noun) :drill:
+
+Es: mezo
+Rus: [середина]
+
+
+*** Существительные (noun) :drill:
+
+Es: lumo
+Rus: [свет]
+
+
+*** Существительные (noun) :drill:
+
+Es: flanko
+Rus: [сторона, бок]
+
+
+*** Существительные (noun) :drill:
+
+Es: turko
+Rus: [турецкий]
+
+
+
+*** Существительные (noun) :drill:
+
+Es: estro
+Rus: [главный, правитель, босс]
+
+
+*** Существительные (noun) :drill:
+
+Es: koloro
+Rus: [цвет]
+
+
+*** Существительные (noun) :drill:
+
+Es: doĝo
+Rus: [дож]
+
+
+*** Существительные (noun) :drill:
+
+Es: afero
+Rus: [дело]
+
+
+*** Существительные (noun) :drill:
+
+Es: pano
+Rus: [хлеб]
+
+
+*** Существительные (noun) :drill:
+
+Es: punkto
+Rus: [точка]
+
+
+*** Существительные (noun) :drill:
+
+Es: S-ro – Sinjoro
+Rus: Господин
+
+
+*** Существительные (noun) :drill:
+
+Es: korpo
+Rus: [тело]
+
+
+*** Существительные (noun) :drill:
+
+Es: aspekto
+Rus: [look, seem]
+
+
+*** Существительные (noun) :drill:
+
+Es: rolo
+Rus: [роль]
+
+
+*** Существительные (noun) :drill:
+
+Es: fakto
+Rus: [факт]
+
+
+*** Существительные (noun) :drill:
+
+Es: nokto
+Rus: [ночь]
+
+
+*** Существительные (noun) :drill:
+
+Es: arbo
+Rus: [дерево]
+
+
+*** Существительные (noun) :drill:
+
+Es: naturo
+Rus: [природа]
+
+
+*** Существительные (noun) :drill:
+
+Es: kastelo
+Rus: [замок]
+
+
+*** Существительные (noun) :drill:
+
+Es: viro
+Rus: [мужчина]
+
+
+*** Существительные (noun) :drill:
+
+Es: industrio
+Rus: [индустрия]
+
+
+*** Существительные (noun) :drill:
+
+Es: polico
+Rus: [полиция]
+
+
+*** Существительные (noun) :drill:
+
+Es: persono
+Rus: [персона, лицо (особь), личность]
+
+
+*** Существительные (noun) :drill:
+
+Es: orelo
+Rus: [ухо]
+
+
+*** Существительные (noun) :drill:
+
+Es: momento
+Rus: [мгновение, момент]
+
+
+*** Существительные (noun) :drill:
+
+Es: situacio
+Rus: [положение, ситуация]
+
+
+*** Существительные (noun) :drill:
+
+Es: branĉo
+Rus: [ветка]
+
+
+*** Существительные (noun) :drill:
+
+Es: besto
+Rus: [зверь]
+
+
+*** Существительные (noun) :drill:
+
+Es: odoro
+Rus: [запах]
+
+
+*** Существительные (noun) :drill:
+
+Es: koro
+Rus: [сердце]
+
+
+*** Существительные (noun) :drill:
+
+Es: buŝo
+Rus: [морда]
+
+
+*** Существительные (noun) :drill:
+
+Es: lampo
+Rus: [лампа]
+
+
+*** Существительные (noun) :drill:
+
+Es: paco
+Rus: [мир]
+
+
+*** Существительные (noun) :drill:
+
+Es: formo
+Rus: [форма]
+
+
+*** Существительные (noun) :drill:
+
+Es: sono
+Rus: [звук]
+
+
+*** Существительные (noun) :drill:
+
+Es: aŭtoritato
+Rus: [авторитет]
+
+
+*** Существительные (noun) :drill:
+
+Es: tono
+Rus: [тон]
+
+
+*** Существительные (noun) :drill:
+
+Es: bieno
+Rus: [имение, поместиье]
+
+
+*** Существительные (noun) :drill:
+
+Es: grafo
+Rus: [граф]
+
+
+*** Существительные (noun) :drill:
+
+Es: monto
+Rus: [гора]
+
+
+*** Существительные (noun)                                    :drill:
+
+Es: teroro
+Rus: [террор]
+
+
+
+*** Существительные (noun) :drill:
+
+Es: amiko
+Rus: [друг]
+
+
+*** Существительные (noun) :drill:
+
+Es: sporto
+Rus: [спорт]
+
+
+*** Существительные (noun) :drill:
+
+Es: ĉambro
+Rus: [комната]
+
+
+*** Существительные (noun) :drill:
+
+Es: tablo
+Rus: [стол]
+
+
+*** Существительные (noun) :drill:
+
+Es: papero
+Rus: [бумага]
+
+
+*** Существительные (noun)                                                 :drill:
+
+Es: libro
+Rus: [книга]
+
+*** Существительные (noun) :drill:
+
+Es: patro
+Rus: [отец]
+
+*** Существительные (noun)                                                  :drill:
+
+Es: hotelo
+Rus: [гостиница, отель]
+
+*** Существительные (noun)                                                  :drill:
+
+Es: lingvo
+Rus: [язык]
+
+*** Существительные (noun) :drill:
+
+Es: nomo
+Rus: [имя]
+
+*** Существительные (noun)                                                  :drill:
+
+Es: seĝo
+Rus: [стул, кресло]
+
+
+*** Существительные (noun) :drill:
+
+Es: saluto
+Rus: [приветствие, привет]
+
+
+*** Существительные (noun) :drill:
+
+Es: kafo
+Rus: [кофе]
+
+
+*** Существительные (noun) :drill:
+
+Es: frato
+Rus: [брат]
+
+
+*** Существительные (noun) :drill:
+
+Es: okulo
+Rus: [око, глаз]
+
+
+*** Существительные (noun) :drill:
+
+Es: domo
+Rus: [дом]
+
+
+*** Существительные (noun) :drill:
+
+Es: mono
+Rus: [деньги]
+
+
+*** Существительные (noun) :drill:
+
+Es: strato
+Rus: [улица]
+
+
+*** Существительные (noun) :drill:
+
+Es: tago
+Rus: [день]
+
+
+*** Существительные (noun) :drill:
+
+Es: kuko
+Rus: [торт]
+
+
+*** Существительные (noun) :drill:
+
+Es: mono
+Rus: [деньги]
+
+
+*** Существительные (noun) :drill:
+
+Es: dolaro
+Rus: [доллар]
+
+
+*** Существительные (noun) :drill:
+
+Es: kelnero
+Rus: [официант, кельнер]
+
+
+*** Существительные (noun) :drill:
+
+Es: loko
+Rus: [место]
+
+
+*** Существительные (noun) :drill:
+
+Es: vizaĝo
+Rus: [лик, лицо]
+
+
+*** Существительные (noun) :drill:
+
+Es: voĉo
+Rus: [голос]
+
+
+*** Существительные (noun) :drill:
+
+Es: afero
+Rus: [дело]
+
+
+*** Существительные (noun) :drill:
+
+Es: suko
+Rus: [сок]
+
+
+*** Существительные (noun) :drill:
+
+Es: letero
+Rus: [письмо]
+
+
+*** Существительные (noun) :drill:
+
+Es: foto
+Rus: [фотография]
+
+
+*** Существительные (noun) :drill:
+
+Es: mano
+Rus: [рука]
+
+
+*** Существительные (noun) :drill:
+
+Es: leciono
+Rus: [урок]
+
+
+*** Существительные (noun) :drill:
+
+Es: pordo
+Rus: [дверь]
+
+
+*** Существительные (noun) :drill:
+
+Es: kapo
+Rus: [голова]
+
+
+*** Существительные (noun) :drill:
+
+Es: piedo
+Rus: [нога, стопа, лапа]
+
+
+*** Существительные (noun) :drill:
+
+Es: poŝo
+Rus: [карман, сумка (у сумчатых животных)]
+
+
+*** Существительные (noun) :drill:
+
+Es: sinjoro
+Rus: [господин, сеньор]
+
+
+*** Существительные (noun) :drill:
+
+Es: aŭto
+Rus: [машина, автомобиль]
+
+
+*** Существительные (noun) :drill:
+
+Es: edzo
+Rus: [муж]
+
+
+*** Существительные (noun) :drill:
+
+Es: horo
+Rus: [час]
+
+
+*** Существительные (noun) :drill:
+
+Es: tempo
+Rus: [время]
+
+
+*** Существительные (noun) :drill:
+
+Es: monato
+Rus: [месяц]
+
+
+*** Существительные (noun) :drill:
+
+Es: besto
+Rus: [зверь]
+
+
+*** Существительные (noun) :drill:
+
+Es: Italio
+Rus: [Италия]
+
+
+*** Существительные (noun) :drill:
+
+Es: akvo
+Rus: [вода]
+
+
+*** Существительные (noun) :drill:
+
+Es: jaro
+Rus: [год]
+
+
+*** Существительные (noun) :drill:
+
+Es: bruo
+Rus: [шум]
+
+
+*** Существительные (noun) :drill:
+
+Es: kavo
+Rus: [яма]
+
+
+*** Существительные (noun) :drill:
+
+Es: nacio
+Rus: [нация, народ]
+
+*** Существительные (noun) :drill:
+
+Es: hejmo
+Rus: [дома]
+
+*** Союзы и частицы :drill:
+
+Es: preskaŭ
+Rus: [почти]
+
+*** Союзы и частицы :drill:
+
+Es: apud
+Rus: [около, возле]
+
+*** Союзы и частицы :drill:
+
+Es: se
+Rus: [если]
+
+*** Союзы и частицы :drill:
+
+Es: je
+Rus: [на, с, предлог с неопределённым значением]
+
+*** Союзы и частицы :drill:
+
+Es: almenaŭ
+Rus: [по крайней мере, по меньшей мере]
+
+*** Союзы и частицы :drill:
+
+Es: ĉirkaŭ
+Rus: [вокруг, около (о количестве, времени)]
+
+*** Союзы и частицы :drill:
+
+Es: tiom
+Rus: [столько]
+
+*** Союзы и частицы :drill:
+
+Es: kvankam
+Rus: [хотя]
+
+*** Союзы и частицы :drill:
+
+Es: tiam
+Rus: [тогда]
+
+*** Союзы и частицы :drill:
+
+Es: tuj
+Rus: [сразу]
+
+*** Союзы и частицы :drill:
+
+Es: kvazaŭ
+Rus: [как будто, словно]
+
+*** Союзы и частицы :drill:
+
+Es: do
+Rus: [итак]
+
+*** Союзы и частицы :drill:
+
+Es: ekster
+Rus: [вне, снаружи]
+
+*** Союзы и частицы :drill:
+
+Es: kaj
+Rus: [и]
+
+*** Союзы и частицы :drill:
+
+Es: en
+Rus: [в]
+
+*** Союзы и частицы :drill:
+
+Es: sur
+Rus: [на]
+
+*** Союзы и частицы :drill:
+
+Es: sed
+Rus: [но]
+
+*** Союзы и частицы :drill:
+
+Es: kun
+Rus: [с, со]
+
+*** Союзы и частицы :drill:
+
+Es: pri
+Rus: [о, об]
+
+*** Союзы и частицы :drill:
+
+Es: post
+Rus: [после]
+
+*** Союзы и частицы :drill:
+
+Es: antaŭ
+Rus: [перед, прежде]
+
+*** Союзы и частицы :drill:
+
+Es: per
+Rus: [через, с помощью]
+
+
+*** Союзы и частицы :drill:
+Es: aŭ
+Rus: [или]
+*** Союзы и частицы :drill:
+Es: sen
+Rus: [без]
+*** Союзы и частицы :drill:
+Es: el
+Rus: [из]
+*** Союзы и частицы :drill:
+Es: inter
+Rus: [между]
+*** Союзы и частицы :drill:
+
+Es: ol
+Rus: [чем]
+
+*** Союзы и частицы :drill:
+
+Es: tio
+Rus: [то]
+
+*** Союзы и частицы :drill:
+
+Es: por
+Rus: [для]
+
+*** Союзы и частицы :drill:
+
+Es: sub
+Rus: [под]
+
+*** Союзы и частицы :drill:
+
+Es: tuj
+Rus: [сразу]
+
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: ne
+Rus: [нет, не]
+
+*** Вопросительные и вспомогательные слова                 :drill:
+
+Es: ĉu
+Rus: [ли, разве (вопросительная частица)]
+
+*** Вопросительные и вспомогательные слова : :drill:
+
+Es: jes
+Rus: [да]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kio
+Rus: [что]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kiu
+Rus: [кто, который]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kio
+Rus: [что]
+
+*** Вопросительные и вспомогательные слова :drill:
+Es: ĉu
+Rus: [ли, разве (вопросительная частица)]
+
+*** Вопросительные и вспомогательные слова :drill:
+Es: jes
+Rus: [да]
+
+*** Вопросительные и вспомогательные слова :drill:
+Es: kia
+Rus: [какой]
+
+*** Вопросительные и вспомогательные слова :drill:
+Es: se
+Rus: [если]
+*** Вопросительные и вспомогательные слова :drill:
+Es: tre
+Rus: [очень]
+*** Вопросительные и вспомогательные слова :drill:
+Es: kie
+Rus: [где]
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kiel
+Rus: [как]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kiam
+Rus: [когда]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kien
+Rus: [куда]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kiu
+Rus: [кто, который]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: tiu
+Rus: [тот]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: ĉi
+Rus: [этот]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: ĉiu
+Rus: [каждый, все]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: ĉar
+Rus: [потому что, так как, ибо]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kial
+Rus: [почему]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: ĉio
+Rus: [всё]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kia
+Rus: [какой]
+
+*** Вопросительные и вспомогательные слова :drill:
+
+Es: kiom
+Rus: [сколько]
+
+
+
+*** Союзы и частицы :drill:
+
+Es: nek
+Rus: [ни]
+
+*** Союзы и частицы :drill:
+
+Es: eĉ
+Rus: [даже]
+
+*** Союзы и частицы :drill:
+
+Es: for
+Rus: [прочь, вон, долой]
+
+*** Союзы и частицы :drill:
+
+Es: ĝis
+Rus: [до]
+
+*** Союзы и частицы :drill:
+
+Es: da
+Rus: [притяжательный предлог, указывающий на количество]
+
+*** Союзы и частицы :drill:
+
+Es: ĉe
+Rus: [при, у]
+
+*** Союзы и частицы :drill:
+
+Es: pri
+Rus: [о, об]
+
+*** Союзы и частицы :drill:
+
+Es: pro
+Rus: [из-за]
+
+*** Союзы и частицы :drill:
+
+Es: jam
+Rus: [уже]
+
+*** Союзы и частицы :drill:
+
+Es: do
+Rus: [итак]
+
+*** Союзы и частицы :drill:
+
+Es: nun
+Rus: [сейчас, теперь]
+
+*** Союзы и частицы :drill:
+
+Es: la
+Rus: [определённый артикль]
+
+*** Союзы и частицы :drill:
+
+Es: de
+Rus: [притяжательный предлог, указывающий на качество]
+
+*** Союзы и частицы :drill:
+
+Es: al
+Rus: [к, на, в, дательный падеж]
+
+*** Союзы и частицы :drill:
+
+Es: nur
+Rus: [только, лишь]
+
+*** Союзы и частицы :drill:
+
+Es: jen
+Rus: [вот, вон]
+
+*** Союзы и частицы :drill:
+
+Es: ankoraŭ
+Rus: [ещё]
+
+*** Союзы и частицы :drill:
+
+Es: ankaŭ
+Rus: [тоже, также]
+
+*** Союзы и частицы :drill:
+
+Es: tra
+Rus: [через, сквозь]
+
+*** Союзы и частицы :drill:
+
+Es: tie
+Rus: [там]
+
+*** Союзы и частицы :drill:
+
+Es: plu
+Rus: [далее, дальше]
+
+*** Союзы и частицы :drill:
+
+Es: ĉe
+Rus: [при, у]
+
+*** Союзы и частицы :drill:
+
+Es: dum
+Rus: [во время, в течение]
+
+*** Союзы и частицы :drill:
+
+Es: plej
+Rus: [наиболее, самый]
+
+*** Союзы и частицы :drill:
+
+Es: pli
+Rus: [более]
+
+*** Союзы и частицы                                                   :drill:
+
+Es: jam
+Rus: [уже]
+
+*** Союзы и частицы :drill:
+
+Es: ĉiam
+Rus: [всегда]
+
+*** Союзы и частицы :drill:
+
+Es: laŭ
+Rus: [по, согласно с]
+
+*** Союзы и частицы :drill:
+
+Es: tre
+Rus: [очень]
+
+*** Союзы и частицы :drill:
+
+Es: kontraŭ
+Rus: [против, контр-]
+
+*** Союзы и частицы :drill:
+
+Es: super
+Rus: [над, сверх, пере-]
+
+*** Союзы и частицы :drill:
+
+Es: trans
+Rus: [через, за]
+
+
+
+*** Союзы и частицы :drill:
+
+Es: almenaŭ
+Rus: [по крайней мере, по меньшей мере]
+
+*** Союзы и частицы :drill:
+
+Es: anstataŭ
+Rus: [вместо]
+
+*** Союзы и частицы :drill:
+
+Es: ekster
+Rus: [вне, снаружи]
+
+*** Союзы и частицы :drill:
+
+Es: krom
+Rus: [кроме]
+
+*** Союзы и частицы :drill:
+
+Es: ju
+Rus: [чем (больше, меньше)]
+
+*** Союзы и частицы :drill:
+
+Es: des
+Rus: [тем (больше, меньше)]
+
+*** Союзы и частицы :drill:
+
+Es: ambaŭ
+Rus: [оба, обе]
+
+*** Союзы и частицы :drill:
+
+Es: ajn
+Rus: [любой]
+
+*** Союзы и частицы :drill:
+
+Es: ĉirkaŭ
+Rus: [вокруг, около (о количестве, времени)]
+
+*** Союзы и частицы :drill:
+
+Es: for
+Rus: [прочь, вон, долой]
+
+*** Союзы и частицы :drill:
+
+Es: inter
+Rus: [между]
+
+*** Союзы и частицы :drill:
+
+Es: tro
+Rus: [слишком, чересчур]
+
+*** Союзы и частицы :drill:
+
+Es: sen
+Rus: [без]
+
+*** Союзы и частицы :drill:
+
+Es: tamen
+Rus: [однако]
+
+*** Наречия :drill:
+
+Es: ofte
+Rus: [часто]
+
+*** Наречия :drill:
+
+Es: ofte
+Rus: [часто]
+
+*** Наречия :drill:
+
+Es: fine
+Rus: [окончательно]
+ 
+*** Наречия :drill:
+
+Es: proksimume
+Rus: [приблизительно, примерно]
+
+
+*** Числа :drill:
+
+Es: cent
+Rus: [сто]
+
+*** Числа :drill:
+
+Es: unu
+Rus: [один]
+
+*** Числа :drill:
+Es: tri
+Rus: [три]
+*** Числа :drill:
+Es: dek
+Rus: [десять]
+*** Числа :drill:
+Es: du
+Rus: [два]
+*** Числа :drill:
+Es: kvar
+Rus: [четыре]
+*** Числа :drill:
+Es: kvin
+Rus: [пять]
+*** Числа :drill:
+
+Es: naŭ
+Rus: [девять]
+
+*** Числа :drill:
+
+Es: ok
+Rus: [восемь]
+
+*** Числа :drill:
+
+Es: ses
+Rus: [шесть]
+
+*** Числа :drill:
+
+Es: sep
+Rus: [семь]
+
+*** Числа :drill:
+
+Es: tri
+Rus: [три]
+
+*** Числа :drill:
+
+Es: dek
+Rus: [десять]
+
+*** Коррелятивы :drill:
+
+
+Es: kie
+Rus: [где]
+
+*** Коррелятивы :drill:
+
+Es: kial
+Rus: [почему]
+
+*** Коррелятивы :drill:
+
+Es: neniam
+Rus: [никогда]
+
+*** Коррелятивы :drill:
+
+Es: kiel
+Rus: [как]
+
+*** Коррелятивы :drill:
+
+Es: io
+Rus: [что-нибудь]
+
+*** Коррелятивы :drill:
+
+Es: iom
+Rus: [немного]
+
+*** Коррелятивы :drill:
+
+Es: ia
+Rus: [какой-то]
+
+*** Коррелятивы :drill:
+
+Es: iu
+Rus: [кто-то]
+
+*** Коррелятивы :drill:
+
+Es: tial
+Rus: [потому]
+
+*** Коррелятивы :drill:
+
+
+Es: tiel
+Rus: [так]
+
+*** Время :drill:
+
+Es: morgaŭ
+Rus: [завтра]
+
+*** Время :drill:
+
+Es: hieraŭ
+Rus: [вчера]
+
+*** Время :drill:
+
+Es: hodiaŭ
+Rus: [сегодня]
+
+
+** Грамматика
+
+*** Предлоги
+
+**** Предлог per :drill:
+
+Per - посредством (с помощью чего-то, чем-то)
+
+***** Примеры
+
+Manĝi per kulero. – Есть ложкой.
+Ŝi kantis per tre bela voĉo. – Она пела очень красивым голосом.
+
+**** Предлог kun :drill:
+
+Kun - с (вместе с)
+
+***** Примеры
+
+Mi iris kun la amiko. – Я шёл с другом.
+Mi parolos kun li. – Я поговорю с ним.
+
+**** Предлог post :drill:
+
+post – после/через (относительно времени)
+poste – после, позднее
+
+***** Примеры
+
+Li venis post mi. – Он пришёл после меня (после того как я пришёл).
+post du horoj – после двух часов
+Li venos post tri horoj. – Он придет через три часа.
+
+
+**** Предлог Malantaŭ :drill:
+
+malantaŭ - позади, за
+
+***** Примеры
+
+Li venis malantaŭ mi. – Он шёл за мной (шёл / ехал позади меня).
+Обратите внимание на правильное ударение: malantaŭ.
+
+**** Предлог Dum :drill:
+
+Dum - предлог, используемый для обозначения временного интервала,
+переводящийся на русский язык как "пока", "в течение", "во время":
+
+***** Примеры
+
+Li sidas dum la manĝo. – Он сидит во время еды
+Ŝi skribas dum li legas. – Она пишет пока он читает.
+
+**** Предлог je :drill:
+
+Предлог je не имеет самостоятельного значения, и оно зависит от контекста.
+Данный предлог используется если ни один другой предлог не имеет нужного значения.
+
+***** Примеры
+
+Je kioma horo vi venos? – Когда ты придёшь? (дословно: В какой час ты придёшь?)
+Je la kvina horo. – В пять часов.
+Li staras je vojo - он стоит на дороге.
+
+**** Предлог Da :drill:
+
+Используется для выражения веса, объема или количества:
+
+| kilogramo da sukero | килограмм сахара |
+| glaso da akvo       | стакан воды      |
+| multe da ideoj      | множество идей   |
+
+*** Словообразование
+
+**** Суффиксы 
+
+***** Суффикс -ist :drill:
+Суффикс -ist соотвествует по значению суффиксу "-ист-" в русском.
+
+****** Примеры
+
+| instruisto   | учитель     |
+| traktoristo  | тракторист  |
+| esperantisto | эсперантист |
+
+***** Суффикс -in :drill:
+
+Суффикс -in обозначающий женский пол.
+
+****** Примеры
+
+| patro        | отец        |
+| patrino      | мать        |
+| lernanto     | ученик      |
+| lernantino   | ученица     |
+| instruisto   | учитель     |
+| instruistino | учительница |
+
+***** Суффикс -ul :drill:
+
+Лицо, определяемое каким-либо качеством (свойством):
+
+| grandulo  | большой человек             |
+| malbonulo | плохой человек              |
+| belulino  | красивая женщина, красавица |
+
+***** Суффикс -ej :drill:
+
+образует слово для места, где регулярно происходит что-либо(на постоянной основе):
+
+| lernejo  | школа (место для обучения)                                |
+| kuirejo  | кухня (место для готовки: kuiri – готовить еду, стряпать) |
+| laborejo | рабочее место                                             |
+
+***** Суффикс -ebl :drill:
+
+отражает возможность, соотноситься с русским "-абельный" (читабельный):
+
+| manĝebla    | съедобный                       |
+| videbla     | видимый                         |
+| kompreneble | понятный (естественно, конечно) |
+| eble        | возможно, вероятно              |
+| malebla     | невозможно                      |
+
+***** Суффикс -ind- :drill:
+
+переводится как "достойный чего-либо".
+
+| aŭskultinda | достойный быть услышанным                                   |
+| leginda     | достойный чтения                                            |
+| bedaŭrinde  | к сожалению (дословно: достойно сожаления)                  |
+| nedankinde  | вежливый ответ на dankon (дословно: не стоит благодарности) |
+
+***** Суффикс -et- :drill:
+
+-et- обозначает уменьшительный суффикс:
+
+| libreto | буклет      |
+| beleta  | хорошенький |
+| varmeta | тёплый      |
+
+***** Суффикс -eg- :drill:
+
+-eg- обозначает увеличительный суффикс:
+
+| librego | том, книжище |
+| varmega | горячий      |
+| belega  | прекрасный   |
+| bonega  | превосходно  |
+
+***** Суффикс -iĝ :drill:
+
+-iĝ- обозначает "превратиться", "стать (кем-то)":
+
+| riĉiĝi      | стать богатым         |
+| trankviliĝi | успокоиться           |
+| resaniĝi    | вылечиться            |
+| geedziĝi    | выйти замуж, жениться |
+
+***** Суффикс -aĵ :drill:
+
+означает "вещь", конкретный предмет:
+
+| manĝaĵo  | еда                          |
+| trinkaĵo | питье, напиток               |
+| belaĵo   | что-либо красивое            |
+| sendaĵo  | посылка, что-то отправленное |
+
+***** Суффикс -ig  :drill:
+
+Каузативный суффикс означающий "(заставлять) делать, заставлять быть":
+
+| beligi     | украшать(делать красивым) |
+| malplenigi | опустошать(делать пустым) |
+| sanigi     | лечить(делать здоровым)   |
+| mortigi    | убивать(делать мёртвым)   |
+
+***** Суффикс -aĉ :drill:
+
+Уничижительный суффикс:
+
+|hundaĉo | шавка, псина|
+|knabaĉo | скверный мальчишка|
+|manĝaĉi | жрать|
+
+***** Суффикс -ad
+
+используется для образования существительного(означающего действие) от глагола:
+
+|kanti – петь|
+|kantado – пение|
+|suferi – страдать|
+|suferado – страдание|
+
+Также может выражать длительность действия или его повторяемость:
+
+|rigardi – смотреть|
+|rigardadi – оглядывать, вглядываться|
+|demandi – спросить|
+|demandadi – опрашивать, проводить опрос|
+|informo – информация|
+|informado – информирование, оповещение|
+
+***** Суффикс -ar
+
+означает группу предметов, рассматриваемую как единое целое:
+
+|arbo – дерево|
+|arbaro – лес|
+|vagono – вагон|
+|vagonaro – поезд|
+|vorto – слово|
+|vortaro – словарь|
+
+***** Суффикс -um
+
+не имеет определённого значения:
+
+|plena – полный|
+|plenumi – выполнять|
+|proksima – близкий|
+|proksimume – приблизительно|
+|suno – солнце|
+|sunumi – загорать|
+|malvarma - холодный|
+|malvarmumi – простыть|
+
+***** Суффикс -an :drill:
+
+означает члена какого-либо коллектива, группы, представителя, последователя :
+
+| klubano    | член клуба                               |
+| amerikano  | американец                               |
+| samlandano | соотечественник                          |
+| samideano  | единомышленник (в частности эсперантист) |
+
+***** Суффикс -ec :drill:
+
+означает свойство, качество:
+
+| beleco   | красота  |
+| varmeco  | теплота  |
+| simpleco | простота |
+
+***** Суффикс -uj :drill:
+
+означает ёмкость, страну(содержит народ) или дерево(содержит плоды):
+
+| manĝujo  | кормушка   |
+| cindrujo | пепельница |
+| Francujo | Франция    |
+| Aŭstrujo | Австрия    |
+| pomo     | яблоко     |
+| pomujo   | яблоня     |
+
+***** ! Суффикс -il                                                   :drill:
+
+образует слова, обозначающие предмет, используемый для какого-либо
+действия(инструмент, приспособление) "орудие", "средство":
+
+| tranĉilo | нож    |
+| hakilo   | топор  |
+| ŝlosilo  | ключ   |
+| timigilo | пугало |
+
+
+
+***** Суффикс -uj :drill:
+
+означает ёмкость, страну(содержит народ) или дерево(содержит плоды):
+
+****** Примеры
+
+manĝujo – кормушка
+cindrujo – пепельница
+Francujo – Франция
+Aŭstrujo – Австрия
+pomo – яблоко
+pomujo – яблоня
+
+***** Суффикс -on :drill:
+
+образует дробное число со знаменателем из модифицируемого корня
+
+| duono   | половина    |
+| triono  | треть       |
+| kvarono | четверть    |
+| sesono  | одна шестая |
+
+**** Приставки
+
+***** Приставка ek- :drill:
+показывает начало действия, или
+внезапное, мгновенное действие.
+
+****** Примеры:
+
+|ekparoli – заговорить(начать говорить)|
+|eksilenti – замолчать|
+|eksidi – сесть|
+|ekridi – засмеяться|
+
+
+***** Приставка re- :drill:
+
+"re-" означает повторение действия
+
+"снова, повторно"
+или "обратно"
+
+****** Примеры:
+
+| revidi | увидеть снова    |
+| redoni | вернуть          |
+| remeti | положить обратно |
+
+***** Приставка dis- :drill:
+
+означает разделение, рассеяние; совпадает с русской приставкой раз-:
+
+|disĵeti | разбросать|
+|dissendi | разослать|
+
+*** Существительные :drill:
+
+Все существительные оканчиваются на -o.
+Женский род уточняется суффиксом.
+
+tablo – стол
+instruisto – учитель
+instruistino – учительница
+
+Множественное число
+Существительные и прилагательные множественного числа имеют окончание -j:
+
+tabloj – столы
+instruistoj – учителя
+viaj instruistoj – твои учителя.
+
+*** Глаголы 
+
+**** Неопределенная форма глаголов :drill:
+
+Глаголы неопределённой формы имеют окончание -i:
+
+| lerni  | изучать  |
+| labori | работать |
+| esti   | быть     |
+
+**** Настоящее время глаголов                                         :drill:
+
+Глагол настоящего времени - -as:
+
+| mi sidas  | я сижу    |
+| vi sidas  | ты сидишь |
+| ni sidas  | мы сидим  |
+| ili sidas | они сидят |
+
+**** Императив (повелительное наклонение) :drill:
+
+Глагол обозначающий команду оканчивается на -u.
+
+***** Примеры
+
+Manĝu! – Ешь! Съешь!
+Iru! – Иди! Пошли!
+
+Эта форма также может относиться к субъекту:
+
+Li lernu! – Пусть учится!
+Ni vidu. – Посмотрим.
+
+**** -u с подрядным союзом "ke" перед формой повелительного наклонения :drill:
+
+Подрядный союз "ke" в сочетании с окончанием повелительного наклонения "u"
+переводится как "чтобы" и выражает запрос, совет или пожелание.
+В русском языке переводится, как правило, в форме прошедшего или будущего времени.
+
+******* Примеры
+Mi deziras, ke vi lernu. – Я хочу, чтобы ты выучил.
+La patro insistas, ke mi iru. – Отец настаивает, чтобы я пошёл.
+
+**** Глагол Farti :drill:
+
+Этот глагол используется преимущественно в выражении:
+
+Kiel vi fartas? – Как ты поживаешь? (Как дела?)
+
+**** Условное наклонение :drill:
+
+выражается глагольным окончанием -us:
+
+mi kredus – я верил бы
+Se mi estus sana, mi estus tre feliĉa. – Если бы я был здоров, я был бы очень счастлив.
+
+*** Прилагательные
+
+*** Наречия :drill:
+
+Наречия могут быть образованы добавлением окончания -e.
+
+**** Примеры
+
+bele – красиво
+forte – сильно
+rapida aŭto – быстрая машина
+veturi rapide – ехать быстро
+
+*** Местоимения
+
+**** Личные :drill:
+
+| mi  | я      |
+| vi  | ты, вы |
+| li  | он     |
+| ŝi  | она    |
+| ĝi  | оно    |
+| ni  | мы     |
+| ili | они    |
+
+**** Притяжательные :drill:
+
+Собственные местоимения образуются путём добавления окончания -a к слову,
+как бы образуя прилагательное от этого местоимения:
+
+| mia  | мой   |
+| via  | твой  |
+| lia  | его   |
+| ŝia  | её    |
+| ĝia  | этого |
+| nia  | наш   |
+| ilia | их    |
+
+**** Местоимение oni :drill:
+
+Неопределённое местоимение oni означает
+
+люди (в целом)
+они
+
+***** Примеры:
+
+Oni manĝas. – Едят.
+Oni sidas. – Сидят.
+
+**** Возвратное метоимение si :drill:
+Местоимение si (вин.п. *sin) ссылается на субъект предложения:
+
+себя самого
+себя саму
+себя само
+их самих
+его самого
+её саму
+
+***** Примеры:
+
+Li lavas sin. – Он моет себя.
+Ŝi rigardas sin. – Она смотрит на себя.
+Ili kantas al si. – Они поют себе.
+
+si используется только для третьего лица,
+и никогда не могут быть субъектом предложения. Сравните:
+
+Mi rigardas min. – Я смотрю на себя.
+Ili rigardas sin. – Они смотрят на себя.
+
+**** Mem :drill:
+
+Mem означает "сам", и используется для того, чтобы подчеркнуть местоимение предшествующее ему.
+(Сравни с si, возвратное местоимение, урок 4.)
+
+Mi mem faris tion. – Я сам сделал это, я сделал это.
+
+*** Числительные :drill:
+
+Числительне перечислены в приложении.
+Числа образуются комбинацией цифр:
+
+**** Примеры
+
+1 238 – mil du-cent tri-dek ok
+153 837 – cent kvin-dek tri mil ok-cent tri-dek sep
+Сложение: 8 + 3 = 11 – ok plus tri estas dek-unu
+Вычитание: 15 - 6 = 9 – dek-kvin minus ses estas naŭ
+
+*** Союзы
+
+**** Союз Kvazaŭ :drill:
+
+союз как бы, словно, как-будто :
+
+Vi sidas tie kvazaŭ vi estus riĉulo. – Ты сидишь тас словно богач.
+
+
+** Основы
+
+*** Алфавит :drill:
+Алфавит Эсперанто содержит 28 букв:
+a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j,
+ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.
+
+a - как а в слове "буква"
+c - как ц в слове "церковь"
+ĉ - как ч в слове "чашка"
+e - как э в слове "этаж"
+g - как г в слове "гора"
+ĝ - как дж в слове "джинсы"
+h - как глухая украинская г или немецкая ch
+ĥ - как х в слове "хороший"
+i - как и в слове "третий"
+j - как й в слове "койот"
+ĵ - как ж в слове "живой"
+o - как о в слове "око"
+r - как r в слове "Рим"
+s - как с в слове "союз"
+ŝ - как ш в слове "шапка"
+u - как у в слове "чебурек"
+ŭ - безударная у как в слове "пауза", "аудитория". Эта буква является согласной!
+
+*** Произношение :drill:
+
+Слова в Эсперанто произносятся чётко и с ударением на предпоследний слог:
+
+amiko = а-МИ-ко
+ĉambro = ЧАМ-бро
+ĝi = джи
+
+*** Определенный артикль la :drill:
+
+В языке Эсперанто присутствует определённый артикль la,
+обозначающий то, что речь идёт об определённом предмете.
+Иногда это слово переводится как "этот", "сей", "известный".
+
+la amiko – этот друг
+amiko – друг
+la laboro – эта работа
+laboro – работа
+
+*** Вопросительные слова
+
+**** Ĉu? :drill:
+
+[Ĉu]? - вопросительное слово.
+
+***** Примеры
+
+Ĉu vi sidas? – Ты сидишь?
+Ĉu vi skribas? – Ты пишешь?
+
+
+**** Kiu? :drill:
+
+Kiu? - вопросительное местоимение, означающее "кто?", "который?".
+
+***** Примеры
+
+Kiu vi estas? – Кто ты?
+Kiu instruisto sidas? – Который учитель сидит?
+
+
+
+*** Частица Ĉi :drill:
+
+Частица ĉi используется вместе с коррелятивами ti- для обозначения близости.
+Сравните ниже перечисленное:
+
+tiu – тот / tiu ĉi или ĉi tiu – этот
+tie – там / tie ĉi or ĉi tie – здесь, тут
+
+*** Положительное и отрицательное слово :drill:
+
+jes означает [да].
+
+Ĉu vi estas en la ĉambro?
+Jes, mi estas en la ĉambro.
+
+ne означает ["нет", "не"]
+
+Ne, mi ne estas en la ĉambro.
+
+*** Аккузатив направления :drill:
+
+После предлогов в Эсперанто обычно идёт именительный падеж:
+
+post mi – после меня
+sen ŝi – без неё
+en domo – в доме
+Однако, предлоги, описывающие положение, могут предшествовать аккузативу,
+для указания направления движения:
+
+Mi iras en la domon. – Я иду в дом.
+(Сравните: Ili manĝas en la domo. – Они едят в доме.)
+Другой пример:
+
+La kato saltis sur la tablon. – Кот прыгнул на стол.
+La kato saltis sur la tablo. – Кот прыгал по столу.
+
+*** Таблица коррелятивов :drill:
+
+Рассмотрев таблицу слов ниже, изучите логику их построения.
+Значение каждого из этих 45-и слов можно узнать по значению
+первого элемента вместе со вторым:
+
+ĉio – всё
+ĉiu – любой, каждый, всякий
+ĉiuj – все
+ĉiam – всегда
+iom – сколько-то, сколько-нибудь, несколько
+
+Некоторые из слов в таблице могут иметь
+окончания -j (множественное число) и -n (винительный падеж):
+
+окончание -j могжет присоединиться к коррелятивам с окончаниями -u и -a
+окончание -n вместе с -o, -u, -a и -e:
+Примечание переводчика: если эти вещи неудобны для запоминания,
+можно их не учить, так как с практикой они станут очевидны.
+
+**** Kio
+Kio – что
+kion – что (в вин. п.)
+
+***** Пример:
+
+Kion vi manĝas? Kukon mi manĝas.
+
+**** Kiu
+
+Kiu – кто, который
+kiun – кого, которого
+kiuj – кто (во мн. ч.), которые
+kiujn – кого (во мн. ч.), которых
+
+**** Kia
+
+Kia - какой
+Kiaj - какие
+
+***** Примеры:
+
+Kia estas la vetero? – Какая сейчас погода?
+Kian aŭton vi havas? – Какая у меня машина? (какую машину ты имеешь?)
+Kiaj estas ŝiaj leteroj? – Какие у неё письма?
+Kiajn fotojn vi faris? – Какие фотографии ты делала?
+
+**** Kie
+
+Kie – где
+Kien – куда
+
+***** Примеры:
+
+Kie mi estas? – Где я?
+Kien vi iras? – Где ты ходишь?
+
+**** С предлогами
+
+Al kiu – кому
+kun kiu – с кем
+al tiu – тому
+inter tiuj – между теми
+
+*** Степени сравнения :drill:
+
+Сравнительная степень образуется при помощи частицы pli (более):
+
+pli bona – лучше
+pli granda – больше.
+Превосходная степень образуется при помощи plej (самый):
+
+plej bona – лучший
+plej granda – наибольший.
+
+Слово "чем" переводится как ol:
+
+pli bona ol vi – лучшие чем ты.
+With a superlative "of" is translated el:
+
+Вместе с превосходной степенью "из" переводится как el:
+
+La plej bona el ĉiuj – лучший из всех.
+Pli и plej используются также с наречиями:
+
+pli rapide – быстрее
+plej rapide – наиболее быстро
+
+*** Отрицание :drill:
+
+В эсперанто, в отличие от русского, обычно используется единичное отрицание.
+
+Nek li nek ŝi respondis. – Ни он, ни она не ответили.
+Vi nek sidas nek rigardas. – Ты ни сидишь, ни смотришь.
+
+Mi neniam diros al iu. – Я никогда никому не скажу.
+(Mi neniam diros al neniu неправильно в эсперанто)
+
+
+*** Пока… :drill:
+
+Есть много способов сказать "пока" на эсперанто, но самый распространенный это
+
+ĝis la revido – буквально "до пере-увидения" (Сравни русское "до с-видания")
+Также можно использовать эту фразу без артикля:
+
+ĝis revido.
+ 
+*** Ju … des :drill:
+
+Ju pli longe, des pli bone. – Чем дольше, тем лучше
+
+*** Ajn :drill:
+
+kiom ajn – сколько-нибудь
+* Приложения
+
+** Таблица коррелятивов
+
+|     | ki-                | ti-            | i-               | ĉi-                              | neni-                     |
+|-----+--------------------+----------------+------------------+----------------------------------+---------------------------|
+| -o  | kio - что          | tio - то       | io - что-то      | ĉio - всё                        | nenio - ничего            |
+| -u  | kiu - кто, который | tiu - тот      | iu - кто-то      | ĉiu - каждый, все                | neniu - никто, никакой из |
+| -am | kiam - когда       | tiam - тогда   | iam - когда-то   | ĉiam - всегда                    | neniam - никогда          |
+| -a  | kia - какой        | tia - такой    | ia - какой-то    | ĉia - всякий                     | nenia - никакой           |
+| -e  | kie - где          | tie - там      | ie - где-то      | ĉie - везде                      | nenie -нигде              |
+| -el | kiel -как          | tiel - так     | iel - как-то     | ĉiel - всячески, по-всякому      | neniel -никак             |
+| -om | kiom - сколько     | tiom - столько | iom - сколько-то | ĉiom - всё                       | neniom - нисколько        |
+| -al | kial - почему      | tial - потому  | ial - почему-то  | ĉial - по-всякой (любой) причине | nenial - без причины      |
+| -es | kies - чей         | ties - того    | ies - чей-то     | ĉies - общий                     | nenies - ничей            |
+
+*** Пояснения
+
+| ki-   | вопросительное   |
+| ti-   | определение      |
+| i-    | неопределённость |
+| ĉi-   | всё              |
+| neni- | отсутствие       |
+
+| -o  | существительное |
+| -u  | личное          |
+| -am | время           |
+| -a  | качество        |
+| -e  | место           |
+| -el | образ           |
+| -om | количество      |
+| -al | причина         |
+| -es | принадлежность  |
+
+** Важные фразы
+
+| eble            | возможно                |
+| iom post iom    | шаг за шагом            |
+| iomete          | чуть-чуть               |
+| mem kompreneble | само собой разумеющееся |
+| ni diru         | давай скажем            |
+| pli-malpli      | более-менее             |
+| rilate al       | отноcящееся к           |
+| temas pri       | это о                   |
+| verŝajne        | вероятно                |
+| ĉu ne           | не так ли               |
+
+** Цвета 
+| blanka | белый      |
+| blua   | синий      |
+| bruna  | коричневый |
+| flava  | жёлтый     |
+| griza  | серый      |
+| nigra  | чёрный     |
+| ruĝa   | красный    |
+| verda  | зелёный    |
+
+** Числа
+
+| unu      | один         |
+| du       | два          |
+| tri      | три          |
+| kvar     | четыре       |
+| kvin     | пять         |
+| ses      | шесть        |
+| sep      | семь         |
+| ok       | восемь       |
+| naŭ      | девять       |
+| dek      | десять       |
+| dek unu  | одинадцать   |
+| dek du   | двенадцать   |
+| dek tri  | тринадцать   |
+| dek kvar | четырнадцать |
+| dek kvin | пятнадцать   |
+| dek ses  | шестнадцать  |
+| dek sep  | семнадцать   |
+| dek ok   | восемнадцать |
+| dek naŭ  | девятнадцать |
+| dudek    | двадцать     |
+| tridek   | тридцать     |
+| kvardek  | сорок        |
+| cent     | сто          |
+| ducent   | двести       |
+| tricent  | триста       |
+| mil      | тысяча       |
+| dumil    | две тысячи   |
+
+** Дни недели
+
+| lundo    | понедельник |
+| mardo    | вторник     |
+| merkredo | среда       |
+| ĵaŭdo    | четверг     |
+| vendredo | пятница     |
+| sabato   | суббота     |
+| dimanĉo  | воскресенье |
+
+** Месяцы
+
+| januaro   | январь   |
+| februaro  | февраль  |
+| marto     | март     |
+| aprilo    | апрель   |
+| majo      | май      |
+| junio     | июнь     |
+| julio     | июль     |
+| aŭgusto   | август   |
+| septembro | сентябрь |
+| oktobro   | октябрь  |
+| novembro  | ноябрь   |
+| decembro  | декабрь  |
+
+** Времена года
+
+| printempo | весна |
+| somero    | лето  |
+| aŭtuno    | осень |
+| vintro    | зима  |
+
+** Союзы
+
+| aŭ      | или                      |
+| kaj     | и                        |
+| ke      | что, чтобы               |
+| kvankam | хотя                     |
+| nek     | ни                       |
+| ol      | чем                      |
+| se      | если                     |
+| sed     | но                       |
+| ĉar     | потому что, так как, ибо |
+
+** Предлоги
+
+|al – к, на, в, дательный падеж|
+|anstataŭ – вместо|
+|antaŭ – перед, прежде|
+|apud – около, возле|
+|da – притяжательный предлог, указывающий на количество|
+|de – притяжательный предлог, указывающий на качество|
+|dum – во время, в течение|
+|ekde – с, начиная с, от|
+|ekster – вне, снаружи|
+|el – из|
+|en – в|
+|inter – между|
+|je – на, с, предлог с неопределённым значением|
+|kontraŭ – против, контр-|
+|krom – кроме|
+|kun – с, со|
+|laŭ – по, согласно с|
+|per – через, с помощью|
+|por – для|
+|post – после|
+|pri – о, об|
+|pro – из-за|
+|sen – без|
+|sub – под|
+|super – над, сверх, пере-|
+|sur – над|
+|tra – через, сквозь|
+|trans – через, за|
+|ĉe – при, у|
+|ĉirkaŭ – вокруг, около (о количестве, времени)|
+|ĝis – до|
+
+** Аффиксы 
+
+*** Приставки
+
+| dis | разъединение, раз-, рас-                           |
+| ek  | начало действия, внезапность                       |
+| for | прочь, вон, долой                                  |
+| ge  | группа лиц обоего пола, пара с женщиной и мужчиной |
+| mal | наоборот, противоположность                        |
+| re  | ещё раз, пере-                                     |
+
+*** Суффиксы
+
+| ad   | продолжительное действие                               |
+| an   | член, участник                                         |
+| ar   | совокупность, набор                                    |
+| aĉ   | обозначает низкое качество, непригодность, никчёмность |
+| aĵ   | вещь, конкретное проявление чего-либо                  |
+| ebl  | возможность                                            |
+| ec   | абстрактное качество                                   |
+| eg   | большой, учеличительный суффикс                        |
+| ej   | место                                                  |
+| er   | часть, фрагмент                                        |
+| estr | главный, правитель                                     |
+| et   | маленький, уменьшительный суффикс                      |
+| ig   | заставить, превратить                                  |
+| il   | инструмент, средство                                   |
+| in   | женщина, феминитив                                     |
+| ind  | достойный                                              |
+| ist  | -ист-, профессия, определённый род занятий             |
+| iĝ   | превратиться, стать                                    |
+| uj   | вместилище, страна                                     |
+| ul   | лицо с выраженным качеством                            |
+| um   | неопределённое значение                                |
+
+
